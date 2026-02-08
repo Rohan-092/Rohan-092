@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Rohan-092
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-Rohan-092/Rohan-092 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Glad to see you here!
+🌐A passionate Full Stack Developer and Data Analyst with a strong foundation in software development and data science. Currently, I'm honing my skills and gaining practical experience through virtual internships at Codsoft, Bharat Intern and Nucleus Technologies as a web developer, where I serve as a Data Science Intern.
+
+🚀 What I Love to Do:
+🌐 Building full-stack web applications with a focus on user experience and functionality.
+📊 Exploring data to uncover insights and drive informed decision-making.
+📈 Developing data-driven solutions to real-world problems.
