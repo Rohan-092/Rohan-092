@@ -1,8 +1,14 @@
 <h1 align="center">Hi 👋, I'm Rohan Garg</h1>
+
+---
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-
-
+---
+- 🎓 I am a B.Tech graduate in Computer Science, eager to start my career as a Full Stack Developer.
+- 👀 I am actively seeking opportunities to contribute to challenging projects and grow in the tech industry.
+- 📚 I am passionate about learning new technologies, enhancing my skills, and building impactful web applications.
+  
+---
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
